@@ -11,7 +11,13 @@
 
 </div>
 
-> 📱 **Application Screenshot:** The MediChat Pro interface features a sleek neon green cyberpunk theme with dark background, providing an intuitive interface for uploading and analyzing medical documents through an AI-powered chat interface.
+## 📸 Application Interface
+
+<div align="center">
+  <img src="./assets/app_interface.png" alt="MediChat Pro Interface" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);">
+</div>
+
+The MediChat Pro interface features a sleek **neon green cyberpunk theme** with a dark background, providing an intuitive and modern interface for uploading and analyzing medical documents through an AI-powered chat interface.
 
 ## Overview
 
