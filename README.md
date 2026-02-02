@@ -1,6 +1,17 @@
 # 🏥 MediChat Pro - Medical Document Intelligence Assistant
 
-![MediChat Pro Interface](https://raw.githubusercontent.com/Aditya1198/MediChatPro/main/assets/app_interface.png)
+<div align="center">
+  
+![MediChat Pro](https://img.shields.io/badge/MediChat-Pro-00ff00?style=for-the-badge&logo=medical&logoColor=00ff00)
+![Python](https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.53+-red?style=for-the-badge&logo=streamlit)
+![LangChain](https://img.shields.io/badge/LangChain-Latest-orange?style=for-the-badge)
+
+**Your Intelligent Medical Document Assistant**
+
+</div>
+
+> 📱 **Application Screenshot:** The MediChat Pro interface features a sleek neon green cyberpunk theme with dark background, providing an intuitive interface for uploading and analyzing medical documents through an AI-powered chat interface.
 
 ## Overview
 
