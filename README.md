@@ -1,6 +1,6 @@
 # 🏥 MediChat Pro - Medical Document Intelligence Assistant
 
-![MediChat Pro Interface](./app_interface.png)
+![MediChat Pro Interface](https://raw.githubusercontent.com/Aditya1198/MediChatPro/main/assets/app_interface.png)
 
 ## Overview
 
